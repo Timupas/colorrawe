@@ -42,7 +42,7 @@ body {
 .hero {
   padding-top: 94px;
   padding-bottom: 183px;
-  background-image: url(../img/hero.jpg);
+  background-image: url(../img/herobg.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -105,6 +105,7 @@ body {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  border: none;
 }
 
 .premium {
